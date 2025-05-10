@@ -9,3 +9,10 @@
 
 # Ignore parquet files
 *.parquet
+
+# Ignore history folder or file
+.history/
+.history
+
+# Ignore CSV files
+*.csv
