@@ -1,0 +1,11 @@
+# Ignore .env files (environment variables)
+.env
+
+# Ignore virtual environments
+.venv/
+
+# Ignore VS Code settings directory
+.vscode/
+
+# Ignore parquet files
+*.parquet
